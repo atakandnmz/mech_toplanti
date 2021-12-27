@@ -29,3 +29,5 @@ Database bilgileri:
  
 
 *Tarih doğru format girildiği sürece çalışıyor.
+
+Django ile yapılmıştır...
