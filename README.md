@@ -3,15 +3,17 @@
 ..\mech_toplanti\mech_toplanti\settings.py dizininde parola bilgisi var.
 
 Database bilgileri:
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'ToplantiDB',
-        'USER':'postgres',
-        'PASSWORD':'123',
-        'HOST':'localhost'
-    }
-    Yapılması gerekenler
+<br>DATABASES = {
+ <br>   'default': {
+<br>        'ENGINE': 'django.db.backends.postgresql',
+ <br>       'NAME': 'ToplantiDB',
+<br>        'USER':'postgres',
+<br>        'PASSWORD':'123',
+<br>        'HOST':'localhost'
+    }</br>
+    
+--Yapılması gerekenler:::
+
 <br>-----Üst koddaki Parola yerel pgadmin şifresi ayarlanır.Benim 123</br>
 <br>-----PostgreSql'de ToplantiDb adında veritabanı oluşturulur.</br>
 <br>-----Terminalden python manage.py migrate            komutu ile migration işlemi kpntrol edilir.</br>
