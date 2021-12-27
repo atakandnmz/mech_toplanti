@@ -16,6 +16,6 @@ http://127.0.0.1:8000/toplanti/  yolundan ulaşılabilir.
 
 Terminal
 
-python manage.py runserver
+python manage.py runserver komutu ile çalıştırılabilir.
 
 Tarih doğru format girildiği sürece çalışıyor.
