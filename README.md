@@ -12,19 +12,18 @@ DATABASES = {
         'HOST':'localhost'
     }
     Yapılması gerekenler
------Üst koddaki Parola yerel pgadmin şifresi ayarlanır.Benim 123
------PostgreSql'de ToplantiDb adında veritabanı oluşturulur.
------Terminalden python manage.py migrate            komutu ile migration işlemi kpntrol edilir.
------python manage.py makemigrations katilimci       komutu ile katilimci dosyasına migration oluşturulur.(zaten var)
------python manage.py sqlmigrate katilimci 0001      komutu ile model oluşturulur.
------python manage.py migrate                        komutu çalıştırılır
------python manage.py runserver                      komutu ile proje çalıştırılır
+<br>-----Üst koddaki Parola yerel pgadmin şifresi ayarlanır.Benim 123</br>
+<br>-----PostgreSql'de ToplantiDb adında veritabanı oluşturulur.</br>
+<br>-----Terminalden python manage.py migrate            komutu ile migration işlemi kpntrol edilir.</br>
+<br>-----python manage.py makemigrations katilimci       komutu ile katilimci dosyasına migration oluşturulur.(zaten var)</br>
+<br>-----python manage.py sqlmigrate katilimci 0001      komutu ile model oluşturulur.</br>
+<br>-----python manage.py migrate                        komutu çalıştırılır</br>
+<br>-----python manage.py runserver                      komutu ile proje çalıştırılır</br>
 
 
-Path bilgileri
+<br>Path bilgileri
 
-http://127.0.0.1:8000/toplanti/  yolundan ulaşılabilir.
+<br>http://127.0.0.1:8000/toplanti/  yolundan ulaşılabilir.
 
 
-
-Tarih doğru format girildiği sürece çalışıyor.
+*Tarih doğru format girildiği sürece çalışıyor.
