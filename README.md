@@ -19,7 +19,7 @@ Database bilgileri:
 <br>-----Terminalden <b>python manage.py migrate</b>            komutu ile migration işlemi kontrol edilir.</br>
 <br>-----<b>python manage.py makemigrations katilimci </b>      komutu ile katilimci dosyasına migration oluşturulur.(zaten var)</br>
 <br>-----<b>python manage.py sqlmigrate katilimci 0001  </b>    komutu ile model oluşturulur.</br>
-<br>-----<b><b>python manage.py migrate   </b>                     komutu çalıştırılır</br>
+<br>-----<b>python manage.py migrate </b>                     komutu çalıştırılır</br>
 <br>-----<b>python manage.py runserver    </b>                  komutu ile proje çalıştırılır</br>
 
 
